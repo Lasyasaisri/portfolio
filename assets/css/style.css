@@ -270,6 +270,7 @@ nav{
 }
 .col{
     display: flex;
+    width:50%;
 }
 
 .top-header{
