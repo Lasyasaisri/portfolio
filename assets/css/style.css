@@ -390,7 +390,7 @@ h3{
     bottom: 0;
 }
 .project-box:hover.project-box i,
-.project-box:hover.project-box>h5,
+.project-box:hover.project-box>h6,
 .project-box:hover.project-box>h3,
 .project-box:hover.project-box>label{
     color: var(--color-white);
