@@ -321,8 +321,13 @@ h3{
     background: var(--first-color-hover);
 }
 
+.skills-div{
+    box-shadow: 1px 8px 10px 2px var(--first-shadow-color);
+    border-radius: 20px;
+}
+
 .skills-box{
-    margin: 10px;
+    margin: 20px;
 }
 .skills-header{
     margin-bottom: 30px;
