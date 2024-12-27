@@ -134,7 +134,7 @@ function submitForm() {
     };
 
     emailjs
-        .send("service_t1y4l6l", "template_rrx3s2i", templateParams)
+        .send("service_bubgf56", "template_xl96n3l", templateParams)
         .then(
             function (response) {
                 showMessage("Your message has been sent successfully!", "success");
